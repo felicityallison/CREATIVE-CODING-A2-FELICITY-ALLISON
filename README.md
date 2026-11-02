@@ -23,5 +23,7 @@ The saved project settings are **96 BPM** and **4/4**.
 
 ## Setup
 
-Open the mp3 file titled **'Creative Coding A2'** and press **view raw** to download the composition.
+1. Open [the TunePad project](https://tunepad.com/project/135109) in a web browser.
+2. Sign in to TunePad if prompted.
+3. Enable browser audio and make sure the device's sound is on.
 
